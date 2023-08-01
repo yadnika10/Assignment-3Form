@@ -1,4 +1,5 @@
 # Assignment-3Form
+https://yadnika10.github.io/Assignment-3Form/
 ![f1](https://github.com/yadnika10/Assignment-3Form/assets/122971264/b0790b25-f068-4600-b6c1-78270425fc75)
 1.Used fieldset tag for outline border of form and added legend tag for writing personal details as title<br>
 2.used labels and Input type as text for name fields<br>
